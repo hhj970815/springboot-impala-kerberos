@@ -1,1 +1,2 @@
 # springboot-impala-kerberos
+springboot整合带kerberos认证的impala查询接口
